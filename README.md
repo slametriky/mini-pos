@@ -5,7 +5,7 @@ Mini POS dengan Laravel 8.x
 
 #### Tahap Install
 1. Clone Repo, pada terminal : `git clone https://github.com/slametriky/mini-pos.git`
-2. `$ cd cek-ongkir`
+2. `$ cd mini-pos`
 3. `$ composer install`
 4. `$ cp .env.example .env`
 5. Sesuaikan pengaturan database di file .env 
