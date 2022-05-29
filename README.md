@@ -11,8 +11,8 @@ Mini POS dengan Laravel 8.x
 5. Sesuaikan pengaturan database di file .env 
 6. `$ php artisan key:generate`
 7. `$ php artisan migrate`
-8. `$ php artisan serve`
-9. `$ php artisan db:seed`
+8. `$ php artisan db:seed`
+9. `$ php artisan serve`
 
 #### Cara Akses
 <h3>Homepage</h3>
