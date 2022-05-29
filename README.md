@@ -15,7 +15,7 @@ Mini POS dengan Laravel 8.x
 
 <h3>DB Seeder</h3>
 
-Untuk login ke halaman admin silahkan lakukan perintah berikut di cmd/terminal
+Untuk membuat akun admin silahkan lakukan perintah berikut di cmd/terminal
 
     php artisan db:seed
 
@@ -31,7 +31,7 @@ Untuk login ke halaman admin silahkan lakukan perintah berikut di cmd/terminal
 Untuk login gunakan akun berikut:
 
     username : admin@gmail.com
-    password : admin
+    password : admin123
     url      : http://localhost:8000/login
 
 ![This is an image](login.png)
@@ -44,4 +44,4 @@ CRUD Master Kategori
 <h3>Master Produk</h3>
 CRUD Master Produk
 
-![This is an image](crud-kategori.png)
+![This is an image](crud-produk.png)
