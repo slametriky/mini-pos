@@ -53,6 +53,10 @@
 							</article>
 						</div>				
 					@endforeach
+				@else
+					<div class="col-12">
+						<p class="text-center">Belum ada data</p>
+					</div>
 				@endif									
 			</div>
 		</section>

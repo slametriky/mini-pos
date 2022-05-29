@@ -9,16 +9,10 @@ Mini POS dengan Laravel 8.x
 3. `$ composer install`
 4. `$ cp .env.example .env`
 5. Sesuaikan pengaturan database di file .env 
-5. `$ php artisan key:generate`
-5. `$ php artisan migrate`
-6. `$ php artisan serve`
-
-<h3>DB Seeder</h3>
-
-Untuk membuat akun admin silahkan lakukan perintah berikut di cmd/terminal
-
-    php artisan db:seed
-
+6. `$ php artisan key:generate`
+7. `$ php artisan migrate`
+8. `$ php artisan serve`
+9. `$ php artisan db:seed`
 
 #### Cara Akses
 <h3>Homepage</h3>
