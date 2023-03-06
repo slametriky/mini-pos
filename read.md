@@ -14,7 +14,7 @@
 7. `$ php artisan serve`
 
 ### User login
-Role : Superadmin
-username : admindev@mail.com
-password : berkatsoft123
+Role : Superadmin.
+username : admindev@mail.com.
+password : berkatsoft123.
 
