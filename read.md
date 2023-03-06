@@ -9,12 +9,13 @@
 2. `$ cd erp`
 3. `$ composer install`
 4. `$ cp .env.example .env` dan sesuaikan konfigurasi database
-5. Import database dari link berikut
+5. Import database dari link [berikut](https://analisberkatsoft.atlassian.net/jira/software/c/projects/CM/boards/1/backlog?issueLimit=100) 
 6. `$ php artisan key:generate`
-7. `$ php artisan serve`
+7. `$ php artisan migrate`
+8. `$ php artisan serve`
 
 ### User login
-Role : Superadmin.
-username : admindev@mail.com.
-password : berkatsoft123.
+Role : Superadmin <br>
+username : admindev@mail.com <br>
+password : berkatsoft123 <br>
 
