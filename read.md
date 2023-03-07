@@ -1,7 +1,11 @@
 # MASA EPR
+* Laravel Version 5.4
+* Bootrtrap 3
+* Javascript, Jquery, Vue JS
+
 #### Requirement
 1. PHP 7.2
-2. Postgree SQL
+2. PostgreeSQL 12.8
 3. Composer
 
 #### Instalasi
